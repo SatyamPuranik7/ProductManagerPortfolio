@@ -23,6 +23,5 @@ I am a product manager focused on turning customer pain points into scalable pro
 
 ## Connect
 
-- GitHub: https://github.com/SatyamPuranik7
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your email]
+- Email: satyampuranik7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/satyam-puranik-80b271307/?isSelfProfile=true
